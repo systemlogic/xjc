@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Details>
+	<person>
+		<Name>
+		<firstName titile="Mr">John</firstName>
+		<lastName>Rambo</lastName>
+		</Name>		
+		<contact>		
+		<phone mobile="9988776655" office="22334477">y</phone>
+		<email>harsh.k.arora@gmail.com</email>
+				</contact>
+		<Address>
+			<Location door="960">Anand vihar</Location>
+			<State district="Gurgoan" >Haryana</State>
+			<Country Pin="110095" >India</Country>
+		</Address>
+	</person>
+<accounts>
+ <account type="Saving">
+  <balance>149432.99</balance>
+ </account>
+ <account type="Credit">
+  <balance>-34149.99</balance>
+ </account>
+ <account type="Pf">
+  <balance>4149.99</balance>
+ </account>
+</accounts>
+</Details> 
